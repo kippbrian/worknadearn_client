@@ -1,5 +1,4 @@
 {
-  
   "name": "react-app",
   "private": true,
   "version": "0.0.0",
@@ -12,7 +11,7 @@
   "dependencies": {
     "@stripe/react-stripe-js": "^1.16.4",
     "@stripe/stripe-js": "^1.46.0",
-    "@tanstack/react-query": "^5",
+    "@tanstack/react-query": "^4.24.10",
     "axios": "^1.3.3",
     "cors": "^2.8.5",
     "infinite-react-carousel": "^1.2.11",
