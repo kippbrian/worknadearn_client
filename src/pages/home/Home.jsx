@@ -11,7 +11,7 @@ export const Home = ()=> {
   return (
     <div className="home">
       <Featured />
-      <TrustedBy />
+      {/* <TrustedBy /> */}
       <Slide slidesToShow={4} arrowsScroll={4}>
         {cards.map((card) => (
           <CatCard key={card.id} card={card} />
